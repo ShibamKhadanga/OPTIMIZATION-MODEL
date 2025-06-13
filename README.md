@@ -1,4 +1,4 @@
-# Task 4: Business Optimization with PuLP
+# Task 4: OPTIMIZATION MODEL
 **COMPANY**: CODTECH IT SOLUTIONS
 
 **NAME**: SHIBAM KHADANGA
